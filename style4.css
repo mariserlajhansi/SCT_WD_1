@@ -119,23 +119,6 @@ body{
     transform:translateY(-4px);
 }
 
-/* Small Professional Image */
-
-.hero-image{
-    width:35%;
-    display:flex;
-    justify-content:center;
-}
-
-.hero-image img{
-    width:280px;
-    height:280px;
-    object-fit:cover;
-    border-radius:50%;
-    border:5px solid #38bdf8;
-    box-shadow:0 10px 25px rgba(56,189,248,0.4);
-}
-
 /* About */
 
 .about{
